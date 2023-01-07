@@ -1,0 +1,29 @@
+{
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "prettier.trailingComma": "none",
+  "editor.formatOnSave": true,
+  "editor.detectIndentation": false,
+  "editor.fontFamily": "Fira Code,苹方-简",
+  "editor.fontLigatures": true,
+  "editor.tabSize": 2,
+  // "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.defaultFormatter": "Vue.volar",
+  "html.format.wrapAttributes": "auto",
+  "[scss]": {
+    "editor.defaultFormatter": "vscode.css-language-features"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "Vue.volar"
+  },
+  "[javascript]": {
+    "editor.defaultFormatter": "vscode.typescript-language-features"
+  },
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  }
+  // "html.format.wrapAttributes": "aligned-multiple"
+  // "[javascript]": {
+  //   "editor.defaultFormatter": "vscode.typescript-language-features",
+  // }
+}
